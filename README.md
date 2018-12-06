@@ -1,2 +1,3 @@
 # GithubHelpRepo
 My second repository on GitHub.
+Eens kijken of ik het nu wel ga begrijpen met deze bootcamps...
